@@ -1,0 +1,12 @@
+# ºöÂÔCSVÎÄ¼þ
+*.csv
+.idea/*
+__pycache__/*
+*/draw_data/*
+*.png
+*.txt
+*/.idea/*
+*/__pycache__/*
+*.zip
+*.xlsx
+*.gz
